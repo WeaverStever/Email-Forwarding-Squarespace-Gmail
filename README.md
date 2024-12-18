@@ -4,6 +4,8 @@ Howto use Squarespace domain forwarding for Gmail send as
 
 
 Incomplete -- update pending
+The missig piece here is that GMAIL must have two factor identification enabled.
+https://support.google.com/accounts/answer/185839
 
 
 Taken from https://forum.squarespace.com/topic/296578-squarespace-email-forwarding-defaults-for-ex-google-domains-mailgun/
