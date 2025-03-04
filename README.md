@@ -2,19 +2,16 @@
 Howto use Squarespace domain forwarding for Gmail send as
 
 
-
-Incomplete -- update pending
-The missig piece here is that GMAIL must have two factor identification enabled.
+GMAIL must have two factor identification enabled.
 https://support.google.com/accounts/answer/185839
 
 
-Taken from https://forum.squarespace.com/topic/296578-squarespace-email-forwarding-defaults-for-ex-google-domains-mailgun/
 
-After my MX records were changed to mailgun.org I was able to get my original google domain email address to work as in alias in regular gmail google using the following instructions for app passwords. (It seems there is a bug in google that is making the app passwords work differently than on their guidance page.) 
+
 
 follow these instructions:
 
-3. Go to https://myaccount.google.com/
+3. Go to https://myaccount.google.com/  (https://myaccount.google.com/apppasswords)
 
 5. In the search window at the top of screen enter "app passwords"
 
@@ -41,3 +38,9 @@ and make sure the Treat as alias box is checked
 15. Press Add Account
 
 16. You should receive a Verification Email from google. Follow the link and use your domain email as a gmail alias.
+
+
+
+Taken from https://forum.squarespace.com/topic/296578-squarespace-email-forwarding-defaults-for-ex-google-domains-mailgun/
+
+After my MX records were changed to mailgun.org I was able to get my original google domain email address to work as in alias in regular gmail google using the following instructions for app passwords. (It seems there is a bug in google that is making the app passwords work differently than on their guidance page.) 
