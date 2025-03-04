@@ -11,33 +11,31 @@ https://support.google.com/accounts/answer/185839
 
 follow these instructions:
 
-3. Go to https://myaccount.google.com/  (https://myaccount.google.com/apppasswords)
+1. Go to https://myaccount.google.com/apppasswords
 
-5. In the search window at the top of screen enter "app passwords"
+2. Let google verify your identity
 
-6. Let google verify your identity
+3. Where it says "app name" in the gray box enter your a unique name
 
-7. Where it says "app name" in the gray box enter your gmail address (email@gmail.com)
+4. copy the code that is generated
 
-8. copy the code that is generated
+5. open gmail settings (settings wheel on upper right, "see all settings", accounts and import)
 
-9. open gmail settings (settings wheel on upper right, "see all settings", accounts and import)
+6. click "Add Another Email Address"
 
-10. click "Add Another Email Address"
-
-11. in the Yellow box type the domain email address you want to use ex. name@yourdomain.com
+7. in the Yellow box type the domain email address you want to use ex. name@yourdomain.com
 
 and make sure the Treat as alias box is checked
 
-12. Press Next Step and it the following box change the SMTP Server to smtp.gmail.com
+8. Press Next Step and it the following box change the SMTP Server to smtp.gmail.com
 
-13. Enter your gmail address exactly as entered in your app password (step 7)
+8. Enter your gmail address exactly as entered in your app password (step 7)
 
-14. Enter the code copied (step 8)
+10. Enter the code copied (step 8)
 
-15. Press Add Account
+11. Press Add Account
 
-16. You should receive a Verification Email from google. Follow the link and use your domain email as a gmail alias.
+12. You should receive a Verification Email from google. Follow the link and use your domain email as a gmail alias.
 
 
 
