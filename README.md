@@ -21,7 +21,7 @@ https://www.geeksforgeeks.org/reverse-dns-lookup/
 
 2. Let google verify your identity
 
-3. Where it says "app name" in the gray box enter a unique name
+3. Where it says "app name" in the gray box enter a unique name (this may need to be your gmail address)
 
 4. copy the 16 character app code that is generated -- paste into a text document -- remove blank spaces(????).
 
@@ -34,7 +34,7 @@ make sure the Treat as alias box is checked, and the port is 587 TLS.
 
 8. Press Next Step and it the following box change the SMTP Server to smtp.gmail.com
 
-9. Enter your app name (from step 3) as the Username
+9. Enter your app name (from step 3) as the Username (this may need to be your gmail address)
 
 10. Enter the app code copied (step 4) as the Password
 
