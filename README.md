@@ -12,7 +12,8 @@ https://support.squarespace.com/hc/en-us/articles/19000909092237-Email-forwardin
 <b>Follow these instructions to allow forwarding addresses to authenticate.</b><br>
 https://support.squarespace.com/hc/en-us/articles/360001280748-Verifying-third-party-domains-for-Email-Campaigns
 
-
+<b> Add a reverse lookup to DNS </b><br>
+https://www.geeksforgeeks.org/reverse-dns-lookup/
 
 <b>Follow these instructions to configure Gmail for Reply As:</b>
 
@@ -20,9 +21,9 @@ https://support.squarespace.com/hc/en-us/articles/360001280748-Verifying-third-p
 
 2. Let google verify your identity
 
-3. Where it says "app name" in the gray box enter your a unique name
+3. Where it says "app name" in the gray box enter a unique name
 
-4. copy the 16 character app code that is generated -- paste into a text document -- remove blank spaces.
+4. copy the 16 character app code that is generated -- paste into a text document -- remove blank spaces(????).
 
 5. open gmail settings (settings wheel on upper right, "see all settings", accounts and import)
 
@@ -33,7 +34,7 @@ make sure the Treat as alias box is checked, and the port is 587 TLS.
 
 8. Press Next Step and it the following box change the SMTP Server to smtp.gmail.com
 
-9. Enter your gmail address aus the Username
+9. Enter your app name (from step 3) as the Username
 
 10. Enter the app code copied (step 4) as the Password
 
