@@ -29,8 +29,8 @@ https://www.geeksforgeeks.org/reverse-dns-lookup/
 
 6. click "Add Another Email Address"
 
-7. in the Yellow box type the domain email address you want to use ex. name@yourdomain.com
-make sure the Treat as alias box is checked, and the port is 587 TLS.
+7. in the Yellow box type the domain email address you want to use ex. name@yourdomain.com (this is the forwarding address you previously setup on Squarespace.)<br>
+<i>(Make sure the "Treat as alias" box is checked, and the port is 587 TLS.)</i>
 
 8. Press Next Step and it the following box change the SMTP Server to smtp.gmail.com
 
